@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Spring Boot Devloper, at Tracom Service Limited.
+- 🔭 Spring Boot Developer, at Tracom Service Limited.
 - 🌱 I’m currently learning , Kotlin 
 - ⚡ Fun fact: I have tried it many times but it is working now
 
