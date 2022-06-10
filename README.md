@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Spring Boot Developer, at Tracom Service Limited.
+- 🔭 Spring Boot Developer.
 - 🌱 I’m currently learning , Flutter
 - ⚡ Fun fact: I have tried it many times but it is working now
 
