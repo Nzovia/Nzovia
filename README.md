@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Spring Boot Developer.
-- 🌱 I’m currently learning , Flutter
+- 🌱 Learning  and implementing projects in Go, 
 - ⚡ Fun fact: I have tried it many times but it is working now
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzovia&show_icons=true&theme=darcula)](https://github.com/Nzovia/github-readme-stats)
