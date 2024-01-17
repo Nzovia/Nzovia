@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Backend Engineer (java/Go/php).
+- 🔭 Backend Engineer (java/Go/C#).
 - 🌱 Learning  and implementing projects in Go, 
 - ⚡ Fun fact: I have tried it many times but it is working now
 
